@@ -22,3 +22,5 @@ if ( stateCapital == 'NE' && userTempature < 32) {
   }else if ( stateCapital == 'FL' && userTempature < 70 && userTempature >50) {
   NSB.MsgBox(`${nameCapital}, wear a warm coat, hat and gloves, Maybe a scarf.`)
   }
+
+//done
